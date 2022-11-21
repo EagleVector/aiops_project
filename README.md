@@ -62,3 +62,8 @@ To activate the Conda environment
 ```
 conda activate <env_name>
 ```
+
+Untracking a file in github repository
+```
+<env_name> in .gitignore
+```

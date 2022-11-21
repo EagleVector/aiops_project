@@ -50,4 +50,15 @@ Pushing the files to the repository
 ```
 git push <remote_branch_variable> <branch_name>
 ```
-###
+
+## Setting up the Conda Environment
+
+To create a Conda environment in the same project directory
+```
+conda create --prefix ./<env_name> python=<python_version> -y
+```
+
+To activate the Conda environment
+```
+conda activate <env_name>
+```

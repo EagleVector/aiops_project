@@ -67,3 +67,8 @@ Untracking a file in github repository
 ```
 <env_name> in .gitignore
 ```
+
+Adding the requirements.txt
+```
+pip freeze>requirements.txt
+```
